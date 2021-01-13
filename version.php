@@ -22,7 +22,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'local_stringman';
+$plugin->component = 'local_duallang';
 $plugin->release = 'alpha1';
 $plugin->version = 2015031200;
 $plugin->requires = 2015030900;

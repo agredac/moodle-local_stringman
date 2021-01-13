@@ -23,4 +23,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Experimental string manager';
+$string['pluginname'] = 'Dual language string manager';
